@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Somnath553/somureact.github.io/myapp/static/css/main.bf5a3d11.css",
+    "main.js": "/Somnath553/somureact.github.io/myapp/static/js/main.2f390672.js",
+    "static/js/787.d3befce1.chunk.js": "/Somnath553/somureact.github.io/myapp/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Somnath553/somureact.github.io/myapp/index.html",
+    "main.bf5a3d11.css.map": "/Somnath553/somureact.github.io/myapp/static/css/main.bf5a3d11.css.map",
+    "main.2f390672.js.map": "/Somnath553/somureact.github.io/myapp/static/js/main.2f390672.js.map",
+    "787.d3befce1.chunk.js.map": "/Somnath553/somureact.github.io/myapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5a3d11.css",
+    "static/js/main.2f390672.js"
+  ]
+}
